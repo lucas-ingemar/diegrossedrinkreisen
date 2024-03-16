@@ -12,4 +12,7 @@ run-build:
 	npm run build
 
 run-local:
-	npm run dev
+	npm run dev -- --host
+
+fix-image:
+	convert ~/Downloads/IMG_4223.jpg -strip -resize 800\> alexander.jpg

@@ -1,0 +1,98 @@
+[
+  {
+    "drink": "Alexander",
+    "date": "2024-02-01",
+    "ibaLink": "https://iba-world.com/alexander/",
+    "participants": [
+      "Lucas",
+      "Oskar",
+      "Robert",
+      "Sven"
+    ],
+    "bar": "Avalon",
+    "presentation": "Frostat glas, fint presenterad",
+    "fragrance": "Chokladig ton, 'chokladpudding'",
+    "taste": "Spritig men väldigt god. Söt",
+    "balance": "Välbalancerad",
+    "other": "Vinterkompatibel (Sven)",
+    "grade": {
+      "Lucas": 7,
+      "Oskar": 7,
+      "Robert": 7,
+      "Sven": 7
+    },
+    "leviability": 1
+  },
+  {
+    "drink": "Americano",
+    "ibaLink": "https://iba-world.com/americano/",
+    "date": "2024-02-01",
+    "participants": [
+      "Lucas",
+      "Oskar",
+      "Robert",
+      "Sven"
+    ],
+    "bar": "Avalon",
+    "presentation": "Helt ok",
+    "fragrance": "Som en svag Negroni",
+    "taste": "Som utspädd Negroni där bitterheten framhävs",
+    "balance": "Lite blaskig, lite bitter",
+    "other": "Bra sommardrink (klockan 13)",
+    "grade": {
+      "Lucas": 4,
+      "Oskar": 7,
+      "Robert": 5,
+      "Sven": 7
+    },
+    "leviability": 3.5
+  },
+  {
+    "drink": "Aviation",
+    "ibaLink": "https://iba-world.com/692/",
+    "date": "2024-03-14",
+    "participants": [
+      "Dean",
+      "Lucas",
+      "Oskar",
+      "Robert"
+    ],
+    "bar": "Bar Amuse",
+    "presentation": "Svag dassig gråaktig färg, men Lucas uppskattar det. Fint glas",
+    "fragrance": "Fräscht, citronigt med en ton av viol",
+    "taste": "Parfymig, platt och lite blaskig",
+    "balance": "Helt ok",
+    "other": "Oklar kompetens på bartendern",
+    "grade": {
+      "Dean": 4,
+      "Lucas": 5,
+      "Oskar": 5,
+      "Robert": 4
+    },
+    "leviability": 4
+  },
+  {
+    "drink": "Angel Face",
+    "ibaLink": "https://iba-world.com/angel-face/",
+    "date": "2024-03-14",
+    "participants": [
+      "Dean",
+      "Lucas",
+      "Oskar",
+      "Robert"
+    ],
+    "bar": "Avalon",
+    "presentation": "Elegant, frostat glas, apelsinskal med klädnypa!",
+    "fragrance": "Konjakig, apelsin, julig?",
+    "taste": "Spritig, calvados",
+    "balance": "Ganska välavvägd",
+    "other": "Säsongsbetonad (Lucas), mycket bättre på Avalon",
+    "grade": {
+      "Dean": 7,
+      "Lucas": 8,
+      "Oskar": 7,
+      "Robert": 6
+    },
+    "leviability": 2.5
+  }
+]
