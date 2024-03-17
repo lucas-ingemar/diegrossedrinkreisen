@@ -1,6 +1,7 @@
 <script>
   import data from '../data.json';
   import DrinkView from '$lib/views/DrinkView.svelte';
+  import ScheduleView from '$lib/views/ScheduleView.svelte';
 </script>
 
 <div class="p-4 -m-2 flex space-between-4 flex-wrap w-screen">
@@ -8,3 +9,5 @@
     <DrinkView drinkData={d}/>
   {/each}
 </div>
+
+<ScheduleView />

@@ -1,5 +1,9 @@
 <script>
   import "../app.css";
+    let a = 1;
+    function hej() {
+      a = a+1
+    } 
 </script>
 
     <header class="bg-cardBg">
@@ -16,4 +20,6 @@
         </nav>
     </header>
 <!-- NOTE: Header goes here! -->
+    <button on:click={hej}>aa</button>
+    {a}
 <slot />
