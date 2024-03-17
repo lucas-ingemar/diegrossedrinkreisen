@@ -1,0 +1,447 @@
+[
+  {
+    "drink": "Alexander",
+    "category": "Unforgettables",
+    "bar": "Avalon"
+  },
+  {
+    "drink": "Americano",
+    "category": "Unforgettables",
+    "bar": "Avalon"
+  },
+  {
+    "drink": "Angel face",
+    "category": "Unforgettables",
+    "bar": "Bar Amuse"
+  },
+  {
+    "drink": "Aviation",
+    "category": "Unforgettables",
+    "bar": "Bar Amuse"
+  },
+  {
+    "drink": "Barracuda",
+    "category": "New Era",
+    "bar": "Bar Bruno"
+  },
+  {
+    "drink": "Bee's knees",
+    "category": "New Era",
+    "bar": "Bar Bruno"
+  },
+  {
+    "drink": "Bellini",
+    "category": "Contemporary Classics",
+    "bar": "Barabicu"
+  },
+  {
+    "drink": "Between the sheets",
+    "category": "Unforgettables",
+    "bar": "Barabicu"
+  },
+  {
+    "drink": "Black Russian",
+    "category": "Contemporary Classics",
+    "bar": "Bruk"
+  },
+  {
+    "drink": "Bloody Mary",
+    "category": "Contemporary Classics",
+    "bar": "Bruk"
+  },
+  {
+    "drink": "Boulevardier",
+    "category": "Unforgettables",
+    "bar": "Cuckoos Nest"
+  },
+  {
+    "drink": "Bramble",
+    "category": "New Era",
+    "bar": "Cuckoos Nest"
+  },
+  {
+    "drink": "Brandy crusta",
+    "category": "Unforgettables",
+    "bar": "Dorsia"
+  },
+  {
+    "drink": "Caipirinha",
+    "category": "Contemporary Classics",
+    "bar": "Dorsia"
+  },
+  {
+    "drink": "Canchanchara",
+    "category": "New Era",
+    "bar": "Drinks 20"
+  },
+  {
+    "drink": "Casino",
+    "category": "Unforgettables",
+    "bar": "Drinks 20"
+  },
+  {
+    "drink": "Champagne cocktail",
+    "category": "Contemporary Classics",
+    "bar": "Pix"
+  },
+  {
+    "drink": "Clover Club",
+    "category": "Unforgettables",
+    "bar": "Pix"
+  },
+  {
+    "drink": "Corpse reviver #2",
+    "category": "Contemporary Classics",
+    "bar": "Restaurang Familjen"
+  },
+  {
+    "drink": "Cosmopolitan",
+    "category": "Contemporary Classics",
+    "bar": "Restaurang Familjen"
+  },
+  {
+    "drink": "Cuba libre",
+    "category": "Contemporary Classics",
+    "bar": "Stranger Stranger"
+  },
+  {
+    "drink": "Daiquiri",
+    "category": "Unforgettables",
+    "bar": "Stranger Stranger"
+  },
+  {
+    "drink": "Dark 'n' stormy",
+    "category": "New Era",
+    "bar": "Zamenhof"
+  },
+  {
+    "drink": "Dry martini",
+    "category": "Unforgettables",
+    "bar": "Zamenhof"
+  },
+  {
+    "drink": "Espresso martini",
+    "category": "New Era",
+    "bar": "Bov Discobar"
+  },
+  {
+    "drink": "Fernandito",
+    "category": "New Era",
+    "bar": "Bov Discobar"
+  },
+  {
+    "drink": "French 75",
+    "category": "Contemporary Classics",
+    "bar": "Café Havanna"
+  },
+  {
+    "drink": "French Connection",
+    "category": "Contemporary Classics",
+    "bar": "Café Havanna"
+  },
+  {
+    "drink": "French martini",
+    "category": "New Era",
+    "bar": "JQ Bar"
+  },
+  {
+    "drink": "Gin fizz",
+    "category": "Unforgettables",
+    "bar": "JQ Bar"
+  },
+  {
+    "drink": "Golden dream",
+    "category": "Contemporary Classics",
+    "bar": "Fei"
+  },
+  {
+    "drink": "Grasshopper",
+    "category": "Contemporary Classics",
+    "bar": "Fei"
+  },
+  {
+    "drink": "Hanky panky",
+    "category": "Unforgettables",
+    "bar": "Steampunk Bar"
+  },
+  {
+    "drink": "Hemingway special",
+    "category": "Contemporary Classics",
+    "bar": "Steampunk Bar"
+  },
+  {
+    "drink": "Horse's neck",
+    "category": "Contemporary Classics",
+    "bar": "Heaven 23"
+  },
+  {
+    "drink": "Illegal",
+    "category": "New Era",
+    "bar": "Heaven 23"
+  },
+  {
+    "drink": "Irish coffee",
+    "category": "Contemporary Classics",
+    "bar": "Röda rummet"
+  },
+  {
+    "drink": "John Collins",
+    "category": "Unforgettables",
+    "bar": "Röda rummet"
+  },
+  {
+    "drink": "Kir",
+    "category": "Contemporary Classics",
+    "bar": "Alba"
+  },
+  {
+    "drink": "Last word",
+    "category": "Unforgettables",
+    "bar": "Alba"
+  },
+  {
+    "drink": "Lemon drop",
+    "category": "New Era",
+    "bar": "Heurlins"
+  },
+  {
+    "drink": "Long Island iced tea",
+    "category": "Contemporary Classics",
+    "bar": "Heurlins"
+  },
+  {
+    "drink": "Mai Tai",
+    "category": "Contemporary Classics",
+    "bar": "Adamo"
+  },
+  {
+    "drink": "Manhattan",
+    "category": "Unforgettables",
+    "bar": "Adamo"
+  },
+  {
+    "drink": "Margarita",
+    "category": "Contemporary Classics",
+    "bar": ""
+  },
+  {
+    "drink": "Martinez",
+    "category": "Unforgettables",
+    "bar": ""
+  },
+  {
+    "drink": "Mary Pickford",
+    "category": "Unforgettables",
+    "bar": ""
+  },
+  {
+    "drink": "Mimosa",
+    "category": "Contemporary Classics",
+    "bar": ""
+  },
+  {
+    "drink": "Mint julep",
+    "category": "Contemporary Classics",
+    "bar": ""
+  },
+  {
+    "drink": "Mojito",
+    "category": "Contemporary Classics",
+    "bar": ""
+  },
+  {
+    "drink": "Monkey gland",
+    "category": "Unforgettables",
+    "bar": ""
+  },
+  {
+    "drink": "Moscow mule",
+    "category": "Contemporary Classics",
+    "bar": ""
+  },
+  {
+    "drink": "Naked and famous",
+    "category": "New Era",
+    "bar": ""
+  },
+  {
+    "drink": "Negroni",
+    "category": "Unforgettables",
+    "bar": ""
+  },
+  {
+    "drink": "New York sour",
+    "category": "New Era",
+    "bar": ""
+  },
+  {
+    "drink": "Old Cuban",
+    "category": "New Era",
+    "bar": ""
+  },
+  {
+    "drink": "Old fashioned",
+    "category": "Unforgettables",
+    "bar": ""
+  },
+  {
+    "drink": "Paloma",
+    "category": "New Era",
+    "bar": ""
+  },
+  {
+    "drink": "Paper plane",
+    "category": "New Era",
+    "bar": ""
+  },
+  {
+    "drink": "Paradise",
+    "category": "Unforgettables",
+    "bar": ""
+  },
+  {
+    "drink": "Penicillin",
+    "category": "New Era",
+    "bar": ""
+  },
+  {
+    "drink": "Piña colada",
+    "category": "Contemporary Classics",
+    "bar": ""
+  },
+  {
+    "drink": "Pisco sour",
+    "category": "Contemporary Classics",
+    "bar": ""
+  },
+  {
+    "drink": "Planter's punch",
+    "category": "Unforgettables",
+    "bar": ""
+  },
+  {
+    "drink": "Porto flip",
+    "category": "Unforgettables",
+    "bar": ""
+  },
+  {
+    "drink": "Ramos fizz",
+    "category": "Unforgettables",
+    "bar": ""
+  },
+  {
+    "drink": "Russian spring punch",
+    "category": "New Era",
+    "bar": ""
+  },
+  {
+    "drink": "Rusty nail",
+    "category": "Unforgettables",
+    "bar": ""
+  },
+  {
+    "drink": "Sazerac",
+    "category": "Unforgettables",
+    "bar": ""
+  },
+  {
+    "drink": "Sea breeze",
+    "category": "Contemporary Classics",
+    "bar": ""
+  },
+  {
+    "drink": "Sex on the beach",
+    "category": "Contemporary Classics",
+    "bar": ""
+  },
+  {
+    "drink": "Sidecar",
+    "category": "Unforgettables",
+    "bar": ""
+  },
+  {
+    "drink": "Singapore sling",
+    "category": "Contemporary Classics",
+    "bar": ""
+  },
+  {
+    "drink": "Spicy Fifty",
+    "category": "New Era",
+    "bar": ""
+  },
+  {
+    "drink": "Spritz",
+    "category": "New Era",
+    "bar": ""
+  },
+  {
+    "drink": "Stinger",
+    "category": "Unforgettables",
+    "bar": ""
+  },
+  {
+    "drink": "Suffering bastard",
+    "category": "New Era",
+    "bar": ""
+  },
+  {
+    "drink": "Tequila sunrise",
+    "category": "Contemporary Classics",
+    "bar": ""
+  },
+  {
+    "drink": "Tipperary",
+    "category": "New Era",
+    "bar": ""
+  },
+  {
+    "drink": "Tommy's margarita",
+    "category": "New Era",
+    "bar": ""
+  },
+  {
+    "drink": "Trinidad sour",
+    "category": "New Era",
+    "bar": ""
+  },
+  {
+    "drink": "Tuxedo",
+    "category": "Unforgettables",
+    "bar": ""
+  },
+  {
+    "drink": "Ve.n.to",
+    "category": "New Era",
+    "bar": ""
+  },
+  {
+    "drink": "Vesper",
+    "category": "Contemporary Classics",
+    "bar": ""
+  },
+  {
+    "drink": "Vieux Carré",
+    "category": "Unforgettables",
+    "bar": ""
+  },
+  {
+    "drink": "Whiskey sour",
+    "category": "Unforgettables",
+    "bar": ""
+  },
+  {
+    "drink": "White lady",
+    "category": "Unforgettables",
+    "bar": ""
+  },
+  {
+    "drink": "Yellow bird",
+    "category": "New Era",
+    "bar": ""
+  },
+  {
+    "drink": "Zombie",
+    "category": "Contemporary Classics",
+    "bar": ""
+  }
+]
