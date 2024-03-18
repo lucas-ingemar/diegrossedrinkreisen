@@ -1,4 +1,8 @@
 <script lang="ts">
+  import CategoryBadge from '$lib/components/CategoryBadge.svelte';
+  import PageTitle from '$lib/components/PageTitle.svelte';
+  import Card from '$lib/components/Card.svelte';
+
   import data from '../../drink-register.json';
   import donedrinks from '../../data.json';
 
@@ -90,19 +94,36 @@
     return result;
   }
 
+  function generateLink(drinkName: string) {
+    let dn = drinkName.toLowerCase()
+    dn = dn.replaceAll(" ", "-")
+    dn = dn.replaceAll("'", "")
+    return "https://iba-world.com/" + dn
+  }
+
   const formattedDrinks = generateDatesForEntries(data);
 </script>
-<table class="bg-red-500a min-w-full">
-  <thead>
-  </thead>
-  <tbody>
-    {#each formattedDrinks as d, idx}
-        <tr class=" {d.done ? 'line-through' : ''}">
-        <td>{d.date}</td>
-        <td>{d.drink}</td>
-        <td>{d.category}</td>
-        <td>{d.bar}</td>
-        </tr>
-    {/each}
-  </tbody>
-</table>
+
+<!-- <PageTitle name="Schema"/> -->
+
+<div class="pt-10">
+  <Card title="Schema">
+    <table class="bg-cardBg min-w-full text-sm md:text-base">
+      <thead>
+      </thead>
+      <tbody>
+        {#each formattedDrinks as d, idx}
+          <tr class=" {d.done ? 'line-through' : ''}">
+            <td>{d.date}</td>
+            <td>
+              <a href={generateLink(d.drink)} target="_blank" class="flex items-center">
+                {d.drink}<CategoryBadge name={d.category} showFullName={false}/>
+              </a>
+            </td>
+            <td>{d.bar}</td>
+          </tr>
+        {/each}
+      </tbody>
+    </table>
+  </Card>
+</div>

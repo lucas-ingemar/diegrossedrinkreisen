@@ -1,13 +1,18 @@
 <script>
   import data from '../data.json';
-  import DrinkView from '$lib/views/DrinkView.svelte';
-  import ScheduleView from '$lib/views/ScheduleView.svelte';
+  import PageTitle from '$lib/components/PageTitle.svelte';
+  import DrinkCounter from '$lib/components/DrinkCounter.svelte';
+  import Card from '$lib/components/Card.svelte';
+  
+  import {faMartiniGlassCitrus, faMartiniGlassEmpty} from '@fortawesome/free-solid-svg-icons'
+  import Fa from 'svelte-fa';
+
 </script>
 
-<div class="p-4 -m-2 flex space-between-4 flex-wrap w-screen">
-  {#each data as d, idx}
-    <DrinkView drinkData={d}/>
-  {/each}
-</div>
 
-<ScheduleView />
+<!-- <PageTitle name="Main"/> -->
+<div class="flex flex-col mt-10">
+  <Card title="Drinkräknare">
+    <DrinkCounter />
+  </Card>
+</div>

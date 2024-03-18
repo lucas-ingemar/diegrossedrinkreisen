@@ -6,6 +6,7 @@ export default {
       colors: {
         'cardBg': '#f5f2ed',
         'brownish': '#3a3a3a',
+        'background': '#e9e4d9',
         'classy': {
           'black': '#4c4637',
           'darkblue': '#8fb5ad',
@@ -28,6 +29,7 @@ export default {
       },
       width: {
         'card': '36rem',
+        'schedule': '65rem',
       },
       fontFamily: {
         "rancho": ['Rancho', 'cursive'],

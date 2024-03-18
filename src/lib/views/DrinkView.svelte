@@ -28,7 +28,7 @@ function formatGradesString(grades) {
 }  
 </script>
 
-<a href={drinkData.ibaLink} target="_blank" class="m-2 flex flex-col items-start bg-cardBg border border-gray-200a rounded-lgas shadow md:flex-row md:max-w-xla hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 border-b-1 border-classy-black md:w-card">
+<a href={drinkData.ibaLink} target="_blank" class="mb-6 lg:m-2 flex flex-col items-start bg-cardBg border shadow md:flex-row md:max-w-xla hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 border-b-1 border-classy-black lg:w-card w-full">
   <img
     class="object-cover w-full h-96 border-classy-black md:h-auto md:w-56 md:rounded-none md:border-r md:h-full"
     src={`drink-imgs/${drinkData.drink.toLowerCase().replaceAll(" ", "-")}.jpg`}
